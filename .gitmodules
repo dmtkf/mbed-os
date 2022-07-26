@@ -1,0 +1,3 @@
+[submodule "platformio"]
+	path = platformio
+	url = https://github.com/dmtkf/builder-framework-mbed.git
